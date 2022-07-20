@@ -9,7 +9,7 @@
   <li> ❤️ I love Learning how things work, getting the fundamentals down and creating unique/ exciting projects.</li>
   <li>🌱 I’m currently learning Web Development, HTML5, CSS [SASS] Ruby & Ruby on Rails.</li>
   <li>💼 I'm currently self learning, and activly looking for a company that i can learn/grow with</li>
-  <li>🧐 Portfolio Website built with HTML | CSS [SASS], <a href="#">https://kks.netlify.app</a></li>
+  <li>🧐 Portfolio Website built with HTML | CSS [SASS], <a href="https://kks.netlify.app/">Visit here!</li>
 </ul>
 
 ## 2022 Goals: 
