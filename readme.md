@@ -16,54 +16,57 @@
 1. Finish Personal Bootcamp 2022.
 2. Secure a Full Time Junior Full Stack Developer Role for 2023.<br>
 
-#### My Focus is currently on
-=========================================
-![100%](https://progress-bar.dev/100)	Expert ✨
-![90%](https://progress-bar.dev/90)	
-![80%](https://progress-bar.dev/80)		Advanced ⤴
-![70%](https://progress-bar.dev/70)	
-![60%](https://progress-bar.dev/60)		Intermediate ⤴
-![50%](https://progress-bar.dev/50)	
-![40%](https://progress-bar.dev/40)	  Advanced Beginner ⤴
-![30%](https://progress-bar.dev/30)	
-![20%](https://progress-bar.dev/20)	  Beginner ⤴
-![0%](https://progress-bar.dev/0)	    Goals
-=========================================
+#### My Focus is currently on <br>
 
-𝐒𝐊𝐈𝐋𝐋𝐒 >>
+![100%](https://progress-bar.dev/100)	Expert ✨<br>
+![90%](https://progress-bar.dev/90)	<br>
+![80%](https://progress-bar.dev/80)	Advanced ⤴<br>
+![70%](https://progress-bar.dev/70)	<br>
+![60%](https://progress-bar.dev/60)	Intermediate ⤴<br>
+![50%](https://progress-bar.dev/50)	<br>
+![40%](https://progress-bar.dev/40)	Advanced Beginner ⤴<br>
+![30%](https://progress-bar.dev/30)	<br>
+![20%](https://progress-bar.dev/20)	Beginner ⤴<br>
+![0%](https://progress-bar.dev/0)	Goals<br>
+=========================================
+<br>
+𝐒𝐊𝐈𝐋𝐋𝐒 >> <br><br>
 	
-![40%](https://progress-bar.dev/40)		HTML5
-![40%](https://progress-bar.dev/40)		 CSS3
-![40%](https://progress-bar.dev/40)		SASS
-![40%](https://progress-bar.dev/40)		Bootstrap
-![40%](https://progress-bar.dev/40)		Ruby
-![40%](https://progress-bar.dev/40)		Ruby on Rails
-![20%](https://progress-bar.dev/20)		JavaScript
-![20%](https://progress-bar.dev/20)		XML
-![20%](https://progress-bar.dev/20)		AsciiDocs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		HTML5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		CSS3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		SASS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Bootstrap<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Ruby<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Ruby on Rails<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		JavaScript<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		XML<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		AsciiDocs<br>
 
-𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> 
-![60%](https://progress-bar.dev/60)		Git
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		Git<br>
 
-𝐈𝐃𝐄’𝐒 >>
-![60%](https://progress-bar.dev/60)		  VS Code
+𝐈𝐃𝐄’𝐒 >> <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		VS Code<br>
 
-𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐍𝐆 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 >>
-![60%](https://progress-bar.dev/60)		MacOS
+𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐍𝐆 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 >> <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		MacOS<br>
 
-𝟐𝟎𝟐𝟑 𝐆𝐎𝐀𝐋𝐒 
+𝟐𝟎𝟐𝟑 𝐆𝐎𝐀𝐋𝐒 <br><br>
 
-![0%](https://progress-bar.dev/0)			C#				
-![0%](https://progress-bar.dev/0)			Typescript	
-![0%](https://progress-bar.dev/0)			Python		
-![0%](https://progress-bar.dev/0)			.NET	
-![0%](https://progress-bar.dev/0)			React 	
-![0%](https://progress-bar.dev/0)			Angular	
-![0%](https://progress-bar.dev/0)			Node 	 
-![0%](https://progress-bar.dev/0)			Azure	 
-![0%](https://progress-bar.dev/0)			AWS 
-![0%](https://progress-bar.dev/0)			Google Cloud
+| Progress | Learn |
+| --- | --- |
+|![0%](https://progress-bar.dev/0)|			C#|			
+|![0%](https://progress-bar.dev/0)|			Typescript|	
+|![0%](https://progress-bar.dev/0)|			Python|	
+|![0%](https://progress-bar.dev/0)|			.NET|
+|![0%](https://progress-bar.dev/0)|			React|
+|![0%](https://progress-bar.dev/0)|			Angular|
+|![0%](https://progress-bar.dev/0)|			Node|
+|![0%](https://progress-bar.dev/0)|			Azure| 
+|![0%](https://progress-bar.dev/0)|			AWS|
+|![0%](https://progress-bar.dev/0)|			Google Cloud|
 
+<br><br>
 #### Languages and Tools:<br><br>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="padding-right:10px;" />
