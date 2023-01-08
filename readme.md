@@ -28,8 +28,8 @@
 ![30%](https://progress-bar.dev/30)	<br>
 ![20%](https://progress-bar.dev/20)	Beginner ⤴<br>
 ![0%](https://progress-bar.dev/0)	Goals<br>
-=========================================
-<br>
+---
+
 𝐒𝐊𝐈𝐋𝐋𝐒 >> <br><br>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		HTML5<br>
@@ -41,6 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		JavaScript<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		XML<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		AsciiDocs<br>
+---
 
 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		Git<br>
@@ -50,6 +51,7 @@
 
 𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐍𝐆 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 >> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		MacOS<br>
+---
 
 𝟐𝟎𝟐𝟑 𝐆𝐎𝐀𝐋𝐒 <br><br>
 
@@ -66,7 +68,7 @@
 |![0%](https://progress-bar.dev/0)|			AWS|
 |![0%](https://progress-bar.dev/0)|			Google Cloud|
 
-<br><br>
+---
 #### Languages and Tools:<br><br>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="padding-right:10px;" />
@@ -78,6 +80,7 @@
 <img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png?20101129171534" style="padding-right:10px;" />
 <img align="left" alt="Rails" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/411px-Ruby_On_Rails_Logo.svg.png?20170116014735" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" style="padding-right:10px;" /><br><br><br>
+---
 
 #### Lets Connect ! <br> 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karl-kemister-sheppard-09b34889/)
