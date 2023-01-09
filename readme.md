@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center", style="color:#f5bc42">Welcome to Kemister85's Github Profile 👋</h1></p>
 
-<p align="center"><strong>My focus is to become a Full Stack Developer while learning how to articulate accurate technical documentation to help support further training and development during my journey</strong></p>
+<p align="center"><strong>My journey in becoming a full stack developer</strong></p>
 
 - I'm currently learning `JS` | `ROR` | `AsciiDocs`
 - My first portfolio website was built with `HTML` | `CSS - SASS` using conventions learnt within a 10 weeks during a bootcamp, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
@@ -8,9 +8,11 @@
 ---
 ## 2023 Goals
 
-- Learn Basic fundamentals in `JS` | `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
+- Continue learning `JS` | `ROR` | `AsciiDocs`
+- Learn Basic fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
 - Complete certs for `Azure` | `AWS` | `Google Cloud`
 - Transition into a Jnr-Developer Role in 2023
+- Build multiple projects that showcase my skills
 ---
 
 ### Current projects & activity
@@ -20,15 +22,14 @@
 - Learning `test-cases` and `regression` testing using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications
 
 Udemy courses:
-- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/share/101WeY3@K8OAsnUJxIOVtDC_yWvx_ViTbcdyHHA05lvmeoNO9CO32jOBD_2gp3NJAbt3CAE7fQ==/)
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/share/101Wqo3@pE2yeCbEvc8DoJ4VVY0N-Xzos00IRpjDNJqYxv0UkRblp5tEDOUlsheob8y1NeOFXA==/)
-- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101Wmq3@BL8NfFwebZYxJVvCBXcLZKsa8wa1A9HD-lBCqiJ_pcE7Q8QkThTOzxMlGd0WcIhScA==/)
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/share/101Ycs3@daKrJLIF1keojnW4btwbLludgZ7TsDX-odelAhnA9mzP8Lp4ING8_Ya-YbBXEILh_A==/)
-
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 ---
 
 ### My toolbox
-
+---
 #### Programming languages
 <p>
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
@@ -46,7 +47,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
 </p>
-
+---
 #### Frameworks and Libraries
 <p>
 <!--   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -67,7 +68,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
 </p>
-
+---
 #### Tools
 <p>
 <!--   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" /> -->
@@ -77,7 +78,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> -->
 </p>
-
+---
 #### Databases
 <p>
 <!--   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
@@ -85,7 +86,7 @@ Udemy courses:
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
 </p>
-
+---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemister85&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemister85&layout=compact&theme=cobalt&hide_border=true" />
