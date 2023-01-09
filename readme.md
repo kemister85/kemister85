@@ -30,6 +30,7 @@ Udemy courses:
 
 ### My toolbox
 ---
+
 #### Programming languages
 <p>
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
@@ -48,6 +49,7 @@ Udemy courses:
 <!--   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
 </p>
 ---
+
 #### Frameworks and Libraries
 <p>
 <!--   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -69,6 +71,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
 </p>
 ---
+
 #### Tools
 <p>
 <!--   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" /> -->
@@ -79,6 +82,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> -->
 </p>
 ---
+
 #### Databases
 <p>
 <!--   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
@@ -87,6 +91,7 @@ Udemy courses:
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
 </p>
 ---
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemister85&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemister85&layout=compact&theme=cobalt&hide_border=true" />
