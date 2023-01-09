@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center", style="color:#f5bc42">Welcome to Kemister85's Github Profile 👋</h1></p>
 
-<p align="center"><strong>My focus is to become a **Full Stack Developer** while learning how to articulate accurate technical documentation to help support further training and development during my journey</strong></p>
+<p align="center"><strong>My focus is to become a Full Stack Developer while learning how to articulate accurate technical documentation to help support further training and development during my journey</strong></p>
 
 - I'm currently learning `JS` | `ROR` | `AsciiDocs`
 - My first portfolio website was built with `HTML` | `CSS - SASS` using conventions learnt within a 10 weeks during a bootcamp, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
@@ -10,35 +10,20 @@
 
 - Learn Basic fundamentals in `JS` | `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
 - Complete certs for `Azure` | `AWS` | `Google Cloud`
-- Transition into a Jnr-Developer Role in **2023**
----
-### 𝐒𝐊𝐈𝐋𝐋𝐒
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		HTML5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		SASS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Bootstrap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Ruby<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		Ruby on Rails<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		XML<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![20%](https://progress-bar.dev/20)		AsciiDocs<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		Git<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		VS Code<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		MacOS<br>
+- Transition into a Jnr-Developer Role in 2023
 ---
 
 ### Current projects & activity
 
-- **New portfolio** build using `Ruby on Rails`, `Postgresql` & `Bootstrap` which will also contain a rich_text_editor for a **blog** feed to track my learning
+- New portfolio build using `Ruby on Rails`, `Postgresql` & `Bootstrap` which will also contain a rich_text_editor for a **blog** feed to track my learning
 - Learning fundamentals of working within a scrum team as a `QA`/ `Technical Writer Intern` for a leading `tech` company in the _rich text editor_ space
 - Learning `test-cases` and `regression` testing using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications
-- Udemy courses
 
-[The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/share/101WeY3@K8OAsnUJxIOVtDC_yWvx_ViTbcdyHHA05lvmeoNO9CO32jOBD_2gp3NJAbt3CAE7fQ==/)  
-[Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/share/101Wqo3@pE2yeCbEvc8DoJ4VVY0N-Xzos00IRpjDNJqYxv0UkRblp5tEDOUlsheob8y1NeOFXA==/)
-[Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101Wmq3@BL8NfFwebZYxJVvCBXcLZKsa8wa1A9HD-lBCqiJ_pcE7Q8QkThTOzxMlGd0WcIhScA==/)
-[Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/share/101Ycs3@daKrJLIF1keojnW4btwbLludgZ7TsDX-odelAhnA9mzP8Lp4ING8_Ya-YbBXEILh_A==/)
+Udemy courses:
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/share/101WeY3@K8OAsnUJxIOVtDC_yWvx_ViTbcdyHHA05lvmeoNO9CO32jOBD_2gp3NJAbt3CAE7fQ==/)
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/share/101Wqo3@pE2yeCbEvc8DoJ4VVY0N-Xzos00IRpjDNJqYxv0UkRblp5tEDOUlsheob8y1NeOFXA==/)
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101Wmq3@BL8NfFwebZYxJVvCBXcLZKsa8wa1A9HD-lBCqiJ_pcE7Q8QkThTOzxMlGd0WcIhScA==/)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/share/101Ycs3@daKrJLIF1keojnW4btwbLludgZ7TsDX-odelAhnA9mzP8Lp4ING8_Ya-YbBXEILh_A==/)
 
 ---
 
