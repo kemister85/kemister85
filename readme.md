@@ -3,25 +3,26 @@
 <p align="center"><strong>My journey in becoming a full stack developer</strong></p>
 
 - I'm currently learning `JS` | `ROR` | `AsciiDocs`
-- My first portfolio website was built with `HTML` | `CSS - SASS` using conventions learnt within a 10 weeks during a bootcamp, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
+- My first portfolio website was built using `HTML` | `CSS` using conventions learnt within a 10 week codeing bootcamp in Brisbane, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
 
 ---
 ## 2023 Goals
 
 - Continue learning `JS` | `ROR` | `AsciiDocs`
-- Learn Basic fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
-- Complete certs for `Azure` | `AWS` | `Google Cloud`
-- Transition into a Jnr-Developer Role in 2023
-- Build multiple projects that showcase my skills
+- Learn fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
+- Complete Certs for `Azure` | `AWS` | `Google Cloud`
+- Transition into a Junior Developer Role in 2023
+- Build multiple projects `websites` | `mini-games` that showcase my skills and understanding of general codeing practices
 ---
 
 ### Current projects & activity
 
-- New portfolio build using `Ruby on Rails`, `Postgresql` & `Bootstrap` which will also contain a rich_text_editor for a **blog** feed to track my learning
-- Learning fundamentals of working within a scrum team as a `QA`/ `Technical Writer Intern` for a leading `tech` company in the _rich text editor_ space
-- Learning `test-cases` and `regression` testing using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications
+- New portfolio build using `Ruby on Rails`, `Postgresql` & `Bootstrap`
+- Working within a team as a `QA`/ `Technical Writer Intern` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
+- Learning how to use `test-cases` and run `regression` testing, using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications to identify `bugs`
 
-Udemy courses:
+### Udemy courses 2023
+
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
