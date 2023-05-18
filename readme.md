@@ -9,7 +9,8 @@
 ## 2023 Goals
 
 - Continue learning `JS` | `ROR` | `AsciiDocs`
-- Learn fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`
+- Learn fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`| `JetBrains`| `Jest`| `Playwright`| `AngularJS`| `React`| `NodeJS`| `MySql`| `DynamoDB`
+    
 - Complete Certs for `Azure` | `AWS` | `Google Cloud`
 - Transition into a Junior Developer Role in 2023
 - Build multiple projects `websites` | `mini-games` that showcase my skills and understanding of general codeing practices
