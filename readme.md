@@ -2,7 +2,7 @@
 
 <p align="center"><strong>My journey in becoming a full stack developer</strong></p>
 
-- I'm currently learning `JS` | `ROR` | `AsciiDocs`
+- I'm currently learning `JS` | `Functional Programming` | `ROR` | `AsciiDocs`
 - My first portfolio website was built using `HTML` | `CSS` using conventions learnt within a 10 week codeing bootcamp in Brisbane, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
 
 ---
@@ -19,7 +19,7 @@
 ### Current projects & activity
 
 - New portfolio build using `Ruby on Rails`, `Postgresql` & `Bootstrap`
-- Working within a team as a `QA`/ `Technical Writer Intern` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
+- Working within a team as a `QA`/ `Technical Writer` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
 - Learning how to use `test-cases` and run `regression` testing, using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications to identify `bugs`
 
 ### Udemy courses 2023
