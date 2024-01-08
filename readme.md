@@ -2,27 +2,26 @@
 
 <p align="center"><strong>My journey in becoming a full stack developer</strong></p>
 
-- I'm currently learning `JS` | `Functional Programming` | `ROR` | `AsciiDocs`
+- I'm currently learning `JS` | `TypeScript` | `DOM` |
 - My first portfolio website was built using `HTML` | `CSS` using conventions learnt within a 10 week codeing bootcamp in Brisbane, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
 
 ---
-## 2023 Goals
+## 2024 Goals
 
-- Continue learning `JS` | `ROR` | `AsciiDocs`
-- Learn fundamentals in `Typescript` | `Python` | `.NET` | `React` | `Angular`| `NodeJS`| `JetBrains`| `Jest`| `Playwright`| `AngularJS`| `React`| `NodeJS`| `MySql`| `DynamoDB`
+- Continue learning `JS` | `TypeScript` | `DOM`
+- Learn fundamentals in `React` | `NodeJS`| `Jest`| `Playwright`|
     
-- Complete Certs for `Azure` | `AWS` | `Google Cloud`
-- Transition into a Junior Developer Role in 2023
-- Build multiple projects `websites` | `mini-games` that showcase my skills and understanding of general codeing practices
+- Obtain Certs for `AWS Certified Cloud Practitioner`
+- Transition into a Software Engineer Role in 2024
+- Build `new portfolio website` | `create a mini-game using JS` that showcase my skills and understanding of general codeing practices
 ---
 
 ### Current projects & activity
 
-- New portfolio build using `Ruby on Rails`, `Postgresql` & `Bootstrap`
-- Working within a team as a `QA`/ `Technical Writer` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
+- Working within a team as a `QA Engineer`/ `Technical Writer` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
 - Learning how to use `test-cases` and run `regression` testing, using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications to identify `bugs`
 
-### Udemy courses 2023
+### Udemy courses 2024
 
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
