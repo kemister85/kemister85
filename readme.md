@@ -3,23 +3,21 @@
 <p align="center"><strong>My journey in becoming a full stack developer</strong></p>
 
 - I'm currently learning `JS` | `TypeScript` | `DOM` |
-- My first portfolio website was built using `HTML` | `CSS` using conventions learnt within a 10 week codeing bootcamp in Brisbane, <a href="https://kks.netlify.app/" target="_blank">Link here</a>
 
 ---
-## 2024 Goals
+## 2024-25 Goals
 
 - Continue learning `JS` | `TypeScript` | `DOM`
-- Learn fundamentals in `React` | `NodeJS`| `Jest`| `Playwright`|
+- Learn fundamentals in `AWS-Cloud` | `Test-Automation` | `Playwright`|
     
 - Obtain Certs for `AWS Certified Cloud Practitioner`
-- Transition into a Software Engineer Role in 2024
-- Build `new portfolio website` | `create a mini-game using JS` that showcase my skills and understanding of general codeing practices
+- Transition into a Software Engineer Role in 2024-25
 ---
 
 ### Current projects & activity
 
-- Working within a team as a `QA Engineer`/ `Technical Writer` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`
-- Learning how to use `test-cases` and run `regression` testing, using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications to identify `bugs`
+- Working within a team as a `QA Engineer`/ `Technical Writer` for a leading `tech` company in the _rich text editor_ space, while gaining extensive knowledge from the devs around the code `base`.
+- Learning how to create `test-cases` and run `regression` testing, using various tools such as `LambdaTestTool` & pre-built `inhouse` testing applications to identify `bugs`
 
 ### Udemy courses 2024
 
